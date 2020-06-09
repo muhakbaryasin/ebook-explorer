@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+
+#preview{
+	width: 500px;
+	position:absolute;
+	border:3px solid #333;
+	background:#fff;
+	padding:5px;
+	display:none;
+	color:#333;
+	box-shadow: 4px 4px 3px rgba(103, 115, 130, 1);
+}
